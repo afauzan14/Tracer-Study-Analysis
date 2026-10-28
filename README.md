@@ -1,4 +1,4 @@
-# 🎓 Alumni Tracer Study Analytics & Career Segmentation Using K-Prototypes
+# Alumni Tracer Study Analytics & Career Segmentation Using K-Prototypes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview & Business Understanding
+## Project Overview & Business Understanding
 
 A **Graduate Tracer Study** is an essential instrument for higher education institutions to evaluate educational quality, assess curriculum relevance against job market demands, and fulfill institutional **Key Performance Indicators (KPIs)**. However, alumni survey datasets typically consist of **mixed data types** containing unstructured free-text responses, non-standardized income formats, and varying survey completion patterns.
 
@@ -22,7 +22,7 @@ The primary objectives of this study are:
 
 ---
 
-## 🔬 Methodology & Data Processing
+## Methodology & Data Processing
 
 1. **Data Preprocessing & Text Normalization:**
    * **Text Anomaly Standardization:** Standardized free-text responses regarding employment wait times, monthly income brackets, postgraduate university names, and department labeling.
@@ -38,7 +38,7 @@ The primary objectives of this study are:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### 1. Departmental Comparison: Employability & Curriculum Alignment
 
@@ -62,7 +62,7 @@ The primary objectives of this study are:
 
 ---
 
-## 💡 Strategic Recommendations for Academic Faculties
+## Strategic Recommendations for Academic Faculties
 
 ### 1. Targeted Career Acceleration Programs
 * **Industry Partnerships & Campus Hiring:** Establish dedicated career placement pipelines for departments with longer transition times (e.g., Agribusiness) through corporate networking, verified digital skill bootcamps, and certified final-year internships.
